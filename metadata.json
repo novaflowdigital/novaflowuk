@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant DOM — NovaFlow Custom Upgrade Preview",
+  "description": "Custom interactive conversion preview for Restaurant DOM Ltd (Scunthorpe) featuring a 2-Click Table & Catering Booking Flow, Automated 4–5 Star Review Funnel, and AI-Search Local Schema.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
